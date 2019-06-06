@@ -1,3 +1,8 @@
+# FAIR WARNING
+
+This is toy code. Not for production. Have fun.
+
+
 # STARTER FILE README.md
 
 This starter project will compile Sass to CSS and uses Babel to compile modern JS into browser friendly JS. This project is intentionally simple for the purposes of quickly prototyping projects that don't require a framework.
